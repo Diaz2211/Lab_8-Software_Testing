@@ -36,6 +36,6 @@ Thực hiện thiết lập giả lập 10 người dùng gửi yêu cầu đồ
 <img width="1212" height="682" alt="image" src="https://github.com/user-attachments/assets/ce9ef998-d574-475b-9d9e-e00fd1dfb5d3" />
 
 ### 3.3. Kết quả Kiểm thử (View Results Tree)
-Thực hiện chạy kịch bản. Tất cả 10/10 request gửi đi đều phản hồi thành công xuất sắc với **Status Code 200 OK** và không phát sinh lỗi.
+Thực hiện chạy kịch bản. Tất cả 10/10 request gửi đi đều phản hồi thành công và không phát sinh lỗi.
 
 <img width="1213" height="682" alt="image" src="https://github.com/user-attachments/assets/b633b6b6-ce2d-4df5-a79d-6abd7e59e460" />
